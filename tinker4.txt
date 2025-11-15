@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+         <title>page title</title>
+  </head>
+  <body>
+        <h1><b>Welcome!</b></h1>
+
+          <table border="1">
+         
+	  <tr>
+	  <th>Name</th>
+          <th>Semester</th>
+          <th>Subject 1</th>
+          <th>Subject 2</th>
+          <th>Subject 3</th>
+          <th>Subject 4</th>
+          </tr>
+          
+	  <tr>
+	   	<td>Om </td>
+		<td>1st</td>
+		<td>78</td>
+		<td>87</td>
+		<td>67</td>
+		<td>87</td>
+	  </tr>
+
+          <tr>
+               <td>Rishab</td>
+              <td>1st</td>
+              <td>68</td>
+              <td>97</td>
+              <td>66</td>
+              <td>88</td>
+          </tr>
+
+          <tr>
+               <td>Rohan</td>
+                <td>1st</td>
+               <td>77</td>
+               <td>97</td>
+               <td>63</td> 
+               <td>57</td>
+          </tr>
+         
+  	  <tr>
+                <td>Ojas</td>
+                <td>1st</td>
+                <td>48</td>
+                <td>87</td>
+		<td>67</td>	
+		<td>87</td>
+          </tr>
+     	   
+          <tr>
+                <td>Rajesh</td>
+                <td>1st</td>
+                <td>78</td>
+                <td>87</td>
+                <td>67</td>
+                <td>87</td>
+            
+         </tr>
+
+
+  </body>
+  </html>

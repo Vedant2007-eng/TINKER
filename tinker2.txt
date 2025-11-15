@@ -1,0 +1,31 @@
+< [DOCTYPE html]>
+<html>
+<head>
+      <meta charset= "UTF-8">
+       <title> My First Webpage </title>
+</head>
+<body>
+ 
+      <h1> Welcome to My Web page </h1>
+      <p> This is a paragragh of my web page.</p>
+    
+      <h2> About Me </h2> 
+      <p> I love Learning html </p>
+    
+      <h3> my Links </h3>
+      <a href="https://example.com" target="_blank">Visit Example </a>
+
+      <h3> My Favorite Image</h3>
+      <img src="file:///C://Users/SSITNGP-01_09/Downloads/VIRAT KOHLI.webp" alt="sample image">
+    
+      <h3> My To-Do list</h3> 
+      <u1>
+         <li> Learn html </li>
+         <li> Practice CSS </li>
+         <li> Build a website </li>
+      </u1>
+     
+   
+
+</body>
+</html> 
